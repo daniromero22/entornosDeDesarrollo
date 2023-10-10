@@ -8,6 +8,7 @@ public class holaMundo {
 		System.out.println("Prueba subida a repositorio");
 <<<<<<< HEAD
 		System.out.println("Prueba subida a repositorio2");
+>>>>>>> refs/heads/Dani
 
 =======
 		System.out.println("por una hora?");
